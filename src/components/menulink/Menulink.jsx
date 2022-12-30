@@ -1,7 +1,7 @@
 import "./menulink.css";
 
 const Menulink = () => {
-  return <div>Menulink</div>;
+  return <div className="menulink">Menulink</div>;
 };
 
 export default Menulink;
